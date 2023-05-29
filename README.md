@@ -26,7 +26,7 @@ To personalize the experience, mfChess offers customizable user profiles where p
 
 mfChess is currently live at mfchess.com, offering a seamless and captivating online chess experience. The backend repository, which handles server-client handling and web socketing for the React app, can be found at the <a href="https://github.com/RiRah123/mfChess-Server">`mfChess-Server`</a> repo. Developers can explore the backend codebase and contribute to the project's growth.
 
-# Running mfChess Frontend Locally
+## Running mfChess Frontend Locally
 
 Using the terminal:
 
@@ -38,12 +38,16 @@ Using the terminal:
    ```
    $ cd mfChess-Web-Client
    ```
-3. Install package using yarn
+3. Install necessary packages using yarn
    ```
    $ yarn install
    ```
    `Note:` If you do not already have yarn install, please check out the <a href="https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable">yarn documentation website</a> for details on how to.
-
+ 4. Run using yarn
+    ```
+    $ yarn run
+    ```
+    `Note:` You should run the backend locally at the sametime to ensure the application runs with error. Please check out the backend repo, <a href="https://github.com/RiRah123/mfChess-Server">`mfChess-Server`</a>, for more details.
 ## ➕ What is Next for mfChess Frontend?
 
 In the future, the frontend of mfChess plans to expand its repertoire of features. Exciting additions on the horizon include introducing game modes like bullet, blitz, and rapid modes to cater to different time preferences. Puzzles, inspired by platforms like Chess.com, will challenge players with mind-bending scenarios. Moreover, mfChess envisions a unique Chessboxing training mode, combining chess puzzles and boxing training, offering a thrilling and unconventional workout experience.
