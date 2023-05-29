@@ -6,6 +6,17 @@
 
 ## ♟️ What is the mfChess?
 
+<div style="text-align: center;">
+  <div style="display: flex; justify-content: flex-end; align-items: center;">
+    <img src="mfChess-front-page" alt="Image 1" style="margin-right: 10px;">
+    <img src="mfChess-profile-page" alt="Image 2">
+  </div>
+  <div style="margin-top: 10px;">
+    <img src="mfChess-board-page" alt="Image 3">
+  </div>
+</div>
+
+
 Introducing mfChess, a cutting-edge React application designed to revolutionize the world of online chess. Built with Typescript, HTML, and CSS on the frontend, mfChess offers a seamless and immersive chess experience for players of all levels.
 
 The repo serves as the frontend interface of mfChess, which presents a user-friendly page where chess enthusiasts can indulge in thrilling gameplay or effortlessly sign in using their Google account. By integrating with Google authentication, mfChess ensures convenient access while securely storing all user profile information.
