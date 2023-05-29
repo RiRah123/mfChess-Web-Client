@@ -7,8 +7,8 @@
 ## ♟️ What is the mfChess?
 
 <p align="center">
-  <img src="mfChess-front-page.png" height="250" width="400" alt="mfChess Front Page">
-  <img src="mfChess-profile-page.png" height="250" width="400" alt="mfChess Profile Page">
+  <img src="mfChess-front-page.png" height="200" width="400" alt="mfChess Front Page">
+  <img src="mfChess-profile-page.png" height="200" width="400" alt="mfChess Profile Page">
 </p>
 <br/>
 <p align="center">
