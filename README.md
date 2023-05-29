@@ -25,7 +25,7 @@ Furthermore, mfChess incorporates a remarkable in-game analysis feature powered 
 
 To personalize the experience, mfChess offers customizable user profiles where players can set their preferred profile picture, display name, and description. Additionally, these profiles act as a comprehensive repository, storing past games and providing a captivating narrative of one's chess journey.
 
-mfChess is currently live at mfchess.com, offering a seamless and captivating online chess experience. The backend repository, which handles server-client handling and web socketing for the React app, can be found at the <a href="https://github.com/RiRah123/mfChess-Server">`mfChess-Server`</a> repo. Developers can explore the backend codebase and contribute to the project's growth.
+mfChess is currently live at <a href="mfchess.com">mfchess.com</a>, offering a seamless and captivating online chess experience. The backend repository, which handles server-client handling and web socketing for the React app, can be found at the <a href="https://github.com/RiRah123/mfChess-Server">`mfChess-Server`</a> repo. Developers can explore the backend codebase and contribute to the project's growth.
 
 ## 🏃‍♂️ Running mfChess Frontend Locally
 
