@@ -10,7 +10,6 @@
   <img src="mfChess-front-page.png" height="200" width="400" alt="mfChess Front Page">
   <img src="mfChess-profile-page.png" height="200" width="400" alt="mfChess Profile Page">
 </p>
-<br/>
 <p align="center">
   <img src="mfChess-board-page.png" height="350" width="700" alt="mfChess Board Page">
 </p>
