@@ -6,16 +6,14 @@
 
 ## ♟️ What is the mfChess?
 
-<div style="text-align: center;">
-  <div style="display: flex; justify-content: flex-end; align-items: center;">
-    <img src="mfChess-front-page.png" alt="Image 1" style="margin-right: 10px;">
-    <img src="mfChess-profile-page.png" alt="Image 2">
-  </div>
-  <div style="margin-top: 10px;">
-    <img src="mfChess-board-page.png" alt="Image 3">
-  </div>
-</div>
-
+<p align="center">
+  <img src="mfChess-front-page.png" height="350" width="180" alt="mfChess Front Page">
+  <img src="mfChess-profile-page.png" height="350" width="180" alt="mfChess Profile Page">
+</p>
+<br/>
+<p align="center">
+  <img src="mfChess-board-page.png" height="350" width="700" alt="mfChess Board Page">
+</p>
 
 Introducing mfChess, a cutting-edge React application designed to revolutionize the world of online chess. Built with Typescript, HTML, and CSS on the frontend, mfChess offers a seamless and immersive chess experience for players of all levels.
 
