@@ -54,3 +54,10 @@ Using the terminal:
 In the future, the frontend of mfChess plans to expand its repertoire of features. Exciting additions on the horizon include introducing game modes like bullet, blitz, and rapid modes to cater to different time preferences. Puzzles, inspired by platforms like Chess.com, will challenge players with mind-bending scenarios. Moreover, mfChess envisions a unique Chessboxing training mode, combining chess puzzles and boxing training, offering a thrilling and unconventional workout experience.
 
 With its sleek design, extensive feature set, and commitment to constant improvement, the mfChess frontend is set to captivate chess enthusiasts, creating a vibrant community of players eager to master the game and enjoy a truly exceptional online chess experience.
+
+## 🤝 Contacts
+- [Race Williams (Project Manager)](https://github.com/r4c3)
+- [Giovanni Hsu (Project Member)](https://github.com/Giovanni1014)
+- [Aaron Liu (Project Member)](https://github.com/aaronliuo)
+- [Hamza Qadri (Project Member)](https://github.com/qad114)
+- [Rian Rahman (Project Member)](https://github.com/RiRah123)
