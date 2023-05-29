@@ -31,15 +31,3 @@ mfChess is currently live at mfchess.com, offering a seamless and captivating on
 In the future, mfChess plans to expand its repertoire of features. Exciting additions on the horizon include introducing game modes like bullet, blitz, and rapid modes to cater to different time preferences. Puzzles, inspired by platforms like Chess.com, will challenge players with mind-bending scenarios. Moreover, mfChess envisions a unique Chessboxing training mode, combining chess puzzles and boxing training, offering a thrilling and unconventional workout experience.
 
 With its sleek design, extensive feature set, and commitment to constant improvement, mfChess is set to captivate chess enthusiasts, creating a vibrant community of players eager to master the game and enjoy a truly exceptional online chess experience.
-
-## Scripts
-
-1. `yarn start`
-  - Runs the app in the development mode.
-  - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-2. `yarn test`
-  - Launches the test runner in the interactive watch mode.\
-
-3. `yarn build`
-  - Builds the app for production to the `build` folder.\
