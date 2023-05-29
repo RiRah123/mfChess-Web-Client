@@ -26,44 +26,11 @@ To personalize the experience, mfChess offers customizable user profiles where p
 
 mfChess is currently live at mfchess.com, offering a seamless and captivating online chess experience. The backend repository, which handles server-client handling and web socketing for the React app, can be found at the <a href="https://github.com/RiRah123/mfChess-Server">`mfChess-Server`</a> repo. Developers can explore the backend codebase and contribute to the project's growth.
 
-## Dependencies
-1. `NodeJS v18.13.0`
-2. [`Better Comments VSCode Extension`](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+## What is Next for mfChess frontend?
 
-## Conventions
-1. Use functional components and hooks
-2. Minimize the amount of states
-3. Use TypeScript
-4. Use fragments instead of divs
-5. See Comments tab below
+In the future, mfChess plans to expand its repertoire of features. Exciting additions on the horizon include introducing game modes like bullet, blitz, and rapid modes to cater to different time preferences. Puzzles, inspired by platforms like Chess.com, will challenge players with mind-bending scenarios. Moreover, mfChess envisions a unique Chessboxing training mode, combining chess puzzles and boxing training, offering a thrilling and unconventional workout experience.
 
-## Comments
-We'll use the Better Comments extension to write comments. Below is an example.
-```
-/**
- * updateUserElo
- * * Important information is highlighted.
- * ! Deprecated method, do not use.
- * ? Should this method be exposed in the public API?
- * TODO: refactor this method.
- @prop userID the logged in user's ID
- @prop gameID the ID of the match the user just played
- */
- const updateUserElo = function (userID: number, gameID: number): void {
-  // ! Old method is deprecated. In process of changing
-  ////let eloChange: number = oldGetEloFromGame(gameID);
-  
-  // * new method uses Glicko-2 rating system
-  // TODO: write tests for elo function
-  let eloChange: number = getEloFromGame(gameID);
-  
-  // * User interface defined in /schemas
-  let userObject: User = getUserObject(userID);
-  userObject.elo += eloChange;
-  
-  // ? Should we console.log the new elo afterwards?
- }
-```
+With its sleek design, extensive feature set, and commitment to constant improvement, mfChess is set to captivate chess enthusiasts, creating a vibrant community of players eager to master the game and enjoy a truly exceptional online chess experience.
 
 ## Scripts
 
