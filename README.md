@@ -8,11 +8,11 @@
 
 <div style="text-align: center;">
   <div style="display: flex; justify-content: flex-end; align-items: center;">
-    <img src="mfChess-front-page" alt="Image 1" style="margin-right: 10px;">
-    <img src="mfChess-profile-page" alt="Image 2">
+    <img src="mfChess-front-page.png" alt="Image 1" style="margin-right: 10px;">
+    <img src="mfChess-profile-page.png" alt="Image 2">
   </div>
   <div style="margin-top: 10px;">
-    <img src="mfChess-board-page" alt="Image 3">
+    <img src="mfChess-board-page.png" alt="Image 3">
   </div>
 </div>
 
